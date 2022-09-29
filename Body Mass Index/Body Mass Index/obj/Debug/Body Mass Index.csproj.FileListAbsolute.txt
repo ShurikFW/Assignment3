@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe.config
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.exe
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\bin\Debug\Body Mass Index.pdb
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\obj\Debug\Body_Mass_Index.Form1.resources
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\obj\Debug\Body_Mass_Index.Properties.Resources.resources
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.exe
+C:\Users\User\source\repos\Body Mass Index\Body Mass Index\obj\Debug\Body Mass Index.pdb
